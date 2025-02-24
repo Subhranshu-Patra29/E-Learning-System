@@ -85,6 +85,9 @@ Admins can add subjects, teachers can add courses in a particular subject, and s
 
 ## 📞 **Contact Me**
 For any queries or contributions, feel free to reach out:  
-📌 **GitHub:** [Subhranshu-Patra29](https://github.com/yourprofile)  
+📌 **GitHub:** [Subhranshu-Patra29](https://github.com/Subhranshu-Patra29)  
 📌 **Email:** patrasubhranshu3@gmail.com
+📌 **GitHub:** [Nilmani45](https://github.com/Nilmani45)  
+📌 **Email:** nilmanitiwari2@gmail.com
+
 
